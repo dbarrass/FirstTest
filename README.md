@@ -1,5 +1,5 @@
 # FirstTest
-I choose not to describe it
+I choose to describe it as a test repo
 
 Adding a line
 
